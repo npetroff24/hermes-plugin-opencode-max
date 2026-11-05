@@ -1,0 +1,5 @@
+name: opencode-max
+kind: model-provider
+version: 1.0.0
+description: Let opencode-go/opencode-zen use max reasoning effort (survives core updates)
+author: npetroff24
